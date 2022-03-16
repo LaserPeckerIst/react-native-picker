@@ -1,5 +1,5 @@
 {
-  "name": "react-native-picker",
+  "name": "@laserpecker/react-native-picker",
   "version": "4.3.7",
   "description": "A Native Picker with high performance.",
   "main": "index.js",
@@ -9,9 +9,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:beefe/react-native-picker.git"
+    "url": "https://github.com/LaserPeckerIst/react-native-picker"
   },
   "author": "zooble",
   "license": "MIT",
-  "homepage": "https://github.com/beefe/react-native-picker"
+  "homepage": "https://github.com/LaserPeckerIst/react-native-picker"
 }
